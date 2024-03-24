@@ -27,13 +27,20 @@ SOFTWARE.
 **[Parts](https://github.com/vossi1/v6566/blob/master/parts.txt)**
 
 V6566 Test:
-![V6566 Max](https://github.com/vossi1/v6566/blob/master/v6566_test.jpg)
+
+![V6566 Test](https://github.com/vossi1/v6566/blob/master/v6566_test.jpg)
+
 
 V6566 Prototype:
-![V6566 Max](https://github.com/vossi1/v6566/blob/master/v6566_proto.jpg)
+
+![V6566 Prototype](https://github.com/vossi1/v6566/blob/master/v6566_proto.jpg)
+
 
 V6566 in my MAX:
+
 ![V6566 Max](https://github.com/vossi1/v6566/blob/master/v6566_max.jpg)
 
+
 Wizard of War with V6566:
+
 ![V6566 WoW](https://github.com/vossi1/v6566/blob/master/v6566_wow.jpg)
