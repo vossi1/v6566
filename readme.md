@@ -24,7 +24,7 @@ SOFTWARE.
 
 **[Blog-entry LC64.blogspot.com from 6.8.2016](https://lc64.blogspot.com/2016/08/max6566-replacement-pcb-finshed.html)**
 
-**[Jim Brain from Go4Retro mad a tiny PCB]https://store.go4retro.com/max-machine-6566-adapter/)**
+**[Jim Brain from Go4Retro mad a tiny PCB](https://store.go4retro.com/max-machine-6566-adapter/)**
 
 **[Schematic](https://github.com/vossi1/v6566/blob/master/v6566_v1.png)**
 
