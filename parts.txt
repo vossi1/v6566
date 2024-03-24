@@ -1,0 +1,11 @@
+Part Value       Device        Package Description                     
+C1   100n        C_CERAMIC_5MM _C5MM   Keramik-Vielschicht-Kondensator 
+C2   100n        C_CERAMIC_5MM _C5MM   Keramik-Vielschicht-Kondensator 
+C3   100n        C_CERAMIC_5MM _C5MM   Keramik-Vielschicht-Kondensator 
+C4   100n        C_CERAMIC_5MM _C5MM   Keramik-Vielschicht-Kondensator 
+IC1  6567        6569          DIP40                                   
+IC2  74HCT573N   74HCT573N     DIL20   8-bit D latch BUS DRIVER        
+IC3  74HCT573N   74HCT573N     DIL20   8-bit D latch BUS DRIVER        
+IC4  74HCT245N   74HCT245N     DIL20   Octal BUS TRANSCEIVER, 3-state  
+IC5  74HCT04N    74HCT04N      DIL14   Hex INVERTER                    
+J1   6566-socket 6566          DIP40   mos 6566                        
